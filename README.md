@@ -6,11 +6,14 @@
 - 📫 Email: rennanfn@gmail.com
 
 ### Ferramentas e Tecnologias
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png) 
-![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/64px-Amazon_Web_Services_Logo.svg.png) 
-![Docker](https://camo.githubusercontent.com/4478f70ad623b56fecc3f4f26be3bd2cbbfed80dc7d9a1b0492aa60fb79371f6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667)
-![Oracle)](https://upload.wikimedia.org/wikipedia/commons/9/92/Oracle_Advertising_logo.svg)
-
+![TypeScript](https://img.icons8.com/color/96/000000/typescript.png) 
+![Node.js](https://img.icons8.com/color/96/000000/nodejs.png) 
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
+![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png)
+![Docker](https://img.icons8.com/color/96/000000/docker.png) 
+![AWS](https://img.icons8.com/color/96/000000/amazon-web-services.png) 
+![MySQL](https://img.icons8.com/ios/96/000000/mysql-logo.png) 
+![Oracle](https://img.icons8.com/color/96/000000/oracle-logo.png) 
 
 
 ### Contato
