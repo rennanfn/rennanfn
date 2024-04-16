@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu repositório! Sou Rennan Nunes e é um prazer ter você por aqui 👋
+### Olá, seja bem-vindo ao meu portfólio! Sou Rennan Nunes e é um prazer ter você por aqui 👋
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Gestão e Governança de TI
 - 🔭 Atualmente Desenvolvedor de Software na [Casa Di Conti](http://www.casadiconti.com.br)
