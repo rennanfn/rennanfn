@@ -12,7 +12,8 @@
 ![Docker](https://img.icons8.com/color/96/000000/docker.png) 
 ![AWS](https://img.icons8.com/color/96/000000/amazon-web-services.png) 
 ![MySQL](https://img.icons8.com/ios/96/000000/mysql-logo.png) 
-![Oracle](https://img.icons8.com/color/96/000000/oracle-logo.png) 
+![Oracle](https://img.icons8.com/color/96/000000/oracle-logo.png)
+![PostgreSQL](https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Emblem.jpg) 
 
 
 ### Contato
