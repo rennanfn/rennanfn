@@ -13,7 +13,7 @@
 ![AWS](https://img.icons8.com/color/96/000000/amazon-web-services.png) 
 ![MySQL](https://img.icons8.com/ios/96/000000/mysql-logo.png) 
 ![Oracle](https://img.icons8.com/color/96/000000/oracle-logo.png)
-![PostgreSQL](https://(https://www.pngrepo.com/png/303301/180/postgresql-logo.png)) 
+![PostgreSQL](https://www.pngrepo.com/png/303301/180/postgresql-logo.png) 
 
 
 ### Contato
