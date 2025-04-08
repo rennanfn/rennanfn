@@ -8,8 +8,7 @@
 ### Ferramentas e Tecnologias
 ![TypeScript](https://img.icons8.com/color/96/000000/typescript.png) 
 ![Node.js](https://img.icons8.com/color/96/000000/nodejs.png) 
-![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) 
-![Java](https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)
 ![Docker](https://img.icons8.com/color/96/000000/docker.png) 
 ![AWS](https://img.icons8.com/color/96/000000/amazon-web-services.png) 
 ![MySQL](https://img.icons8.com/ios/96/000000/mysql-logo.png) 
@@ -17,7 +16,7 @@
 
 
 ### Contato
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/64px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/rennan-nunes-b41a3a1b1/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/64px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/dev-rennan-nunes/)
 [![WhatsApp](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/64px-WhatsApp.svg.png)](https://wa.me/+5518996133410)
 
 
